@@ -1,5 +1,23 @@
 *{background-color: aqua;}
 #cambioparrafo{font-family: cursive;}
-.cambiolista{border-style: groove;}
-h1{font-weight: 100;}
-#cambioimagen{width: 5em;}
+#cambioparrafo2{
+    font-family: 'Sevillana', cursive;
+    font-size: 20px;
+}
+.cambiolista{
+    border-style: groove;
+}
+h1 {
+    font-weight: 100;
+    background: linear-gradient(to right, #b6e026 0%,#2738d1 100%);
+}
+#cambioimagen{
+    width: 5em;
+    box-shadow: 10px 10px 10px #756;
+    border-radius: 5px;
+}
+
+i{
+    color: #2738d1;
+    font-size: 20px;
+}
